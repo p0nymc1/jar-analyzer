@@ -77,7 +77,7 @@
             <groupId>org.quiltmc</groupId>
             <artifactId>quiltflower</artifactId>
             <!-- 适配Java8 -->
-            <version>1.8.1</version>
+            <version>1.9.0</version>
         </dependency>
         <dependency>
             <groupId>lib</groupId>
